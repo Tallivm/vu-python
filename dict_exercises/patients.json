@@ -1,0 +1,352 @@
+{
+    "0": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "1": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "2": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "3": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "4": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "5": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "6": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "7": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "8": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "9": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "10": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "11": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "12": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "13": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "14": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "15": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "16": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "17": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "18": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "19": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "20": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "21": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "22": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "23": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "24": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "25": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "26": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "27": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "28": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "29": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "30": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "31": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "32": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "33": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "34": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "35": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "36": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "37": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "38": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "39": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "40": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "41": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": false
+    },
+    "42": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "43": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "44": {
+        "high_blood_pressure": true,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": true,
+        "is_dehydrated": true
+    },
+    "45": {
+        "high_blood_pressure": false,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": true,
+        "is_dehydrated": false
+    },
+    "46": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": true,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "47": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "48": {
+        "high_blood_pressure": true,
+        "high_heart_rate": true,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    },
+    "49": {
+        "high_blood_pressure": false,
+        "high_heart_rate": false,
+        "high_temperature": false,
+        "has_chest_pain": false,
+        "is_dehydrated": true
+    }
+}
