@@ -21,7 +21,7 @@ Charles Wright 5 5 4
 Sandra Martinez 4 5 7
 Nancy Hill 5 7 4
 Elizabeth Smith 7 4 6
-William Lewis 7 6 6
+William Lewis 7 6 0
 William White 6 6 7
 Jennifer Green 5 7 6
 Sandra Anderson 6 5 5
@@ -99,7 +99,7 @@ Joseph White 4 7 4
 Donald Green 4 4 7
 James Miller 4 6 6
 Robert Thompson 6 6 7
-Joshua Jackson 4 7 3
+Joshua Jackson 0 7 3
 Charles Scott 6 8 6
 Barbara Brown 6 6 7
 Ashley Thompson 4 1 2
@@ -107,7 +107,7 @@ Ashley Walker 6 4 7
 Christopher Wright 9 6 4
 Joseph Young 6 5 7
 Margaret White 5 4 5
-Matthew Brown 6 6 4
+Matthew Brown 6 6 0
 Daniel Anderson 5 4 5
 Betty Lee 7 4 6
 Emily Garcia 4 8 6
@@ -133,12 +133,12 @@ Susan Miller 6 4 4
 Nancy Allen 6 6 6
 Susan Hill 6 4 7
 Charles Miller 7 5 7
-Daniel Hernandez 7 9 6
+Daniel Hernandez 7 10 6
 Charles Lee 8 6 5
 Lisa Lewis 6 9 5
 Kimberly Robinson 6 4 8
 Jennifer Thomas 6 5 5
-Donald Hernandez 7 3 9
+Donald Hernandez 7 3 10
 Margaret Hernandez 5 5 5
 Linda Robinson 6 4 7
 Elizabeth Hill 4 7 6
@@ -163,7 +163,7 @@ Jennifer Harris 4 4 5
 Michelle King 5 8 9
 William Clark 1 6 3
 Joshua Ramirez 8 6 6
-Andrew Jones 3 3 5
+Andrew Jones 0 3 5
 Emily White 4 7 4
 Anthony Hernandez 5 6 6
 Anthony Martinez 4 3 5
@@ -201,7 +201,7 @@ Sandra Scott 5 5 6
 Joshua Thomas 5 7 4
 Joshua Hill 3 4 5
 Jennifer Brown 2 5 6
-Paul Johnson 6 9 2
+Paul Johnson 6 10 2
 Nancy Jackson 6 4 5
 Steven Green 6 8 3
 Michelle Scott 5 6 5
@@ -271,7 +271,7 @@ Matthew Jones 8 2 1
 Jessica Wilson 2 8 6
 Joshua Smith 6 9 7
 Richard White 6 7 4
-Emily Young 6 6 9
+Emily Young 6 6 10
 Jennifer Anderson 5 3 4
 David Lee 4 6 6
 Joshua Brown 5 4 4
@@ -286,10 +286,10 @@ Nancy Thompson 6 4 8
 Elizabeth Davis 4 6 5
 Thomas King 5 5 9
 Elizabeth Garcia 6 3 4
-Andrew Rodriguez 9 7 2
+Andrew Rodriguez 10 7 2
 Steven Hernandez 6 7 3
 Nancy White 8 5 6
-Richard Gonzalez 6 8 9
+Richard Gonzalez 6 8 10
 Sarah Young 5 4 5
 Lisa Williams 4 5 7
 Jessica Johnson 2 6 6
@@ -307,7 +307,7 @@ Ashley Green 4 7 7
 Emily Walker 7 8 6
 Donna Smith 5 1 5
 Ashley Anderson 5 5 6
-Jessica Taylor 7 6 7
+Jessica Taylor 7 6 11
 Michelle Thomas 5 6 6
 Donna Flores 3 6 4
 Jennifer Moore 6 4 7
